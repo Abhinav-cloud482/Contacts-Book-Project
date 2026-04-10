@@ -61,7 +61,7 @@ contacts_backup_*.json # Backup files (generated)
 # Run the Project
 ```
 pip install colorama rapidfuzz scikit-learn
-python "contacts book.py"
+python "contact book.py"
 ```
 
 # Summary
