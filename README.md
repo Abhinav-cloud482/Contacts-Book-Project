@@ -1,6 +1,6 @@
-## Contacts-Book-Project
+## Contact-Book-Project
 
-# Contacts Book (Python CLI)
+# Contact Book (Python CLI)
 
 A command-line Contacts Book application built with Python that stores and manages contacts using local JSON files.
 The project includes fuzzy search, automatic category prediction, and basic analytics like popularity tracking.
